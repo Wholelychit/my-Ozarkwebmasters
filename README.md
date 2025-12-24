@@ -1,2 +1,2 @@
-# my-Ozarkwebmasters
+# my-ozarkwebmasters
 website online
